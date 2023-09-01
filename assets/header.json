@@ -1,9 +1,10 @@
 {
-  "name"  : "Adolfo Centeno",
-  "email" : "adsoft@live.com.mx",
-  "cel"   : "(272)190 8413",
-  "social": {
-    "face": "^2.8.5",
-    "x": "^4.18.2"
-  }
+ "name" : "Adolfo Centeno",
+ "titulo" : "PhD",
+ "objetivo" : "ser competitivo internacionalmente",
+ "foto" : "https://.....com",
+ "email" : "adsoft@live.com.mx",
+ "celular" : "(272)-190-8413",
+ "ubicacion" : "Orizaba Veracruz, Mexico",
+ "redsocial" : "@adsoftsito"
 }
